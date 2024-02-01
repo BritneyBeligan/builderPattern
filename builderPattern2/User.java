@@ -1,6 +1,4 @@
 package builderPattern2;
-import java.util.ArrayList;
-import java.util.List;
 
 public class User{
     protected final String firstName;
